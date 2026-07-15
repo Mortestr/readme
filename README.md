@@ -19,9 +19,6 @@
 * Website: https://guns.lol/mortestr
 * Github: [@Mortestr](https://github.com/Mortestr)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
