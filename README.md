@@ -12,12 +12,6 @@
 
 ### 🏠 [Homepage](https://guns.lol/mortestr)
 
-## Install
-
-```sh
-python3 install Mortestr
-```
-
 ## Author
 
 👤 **Mortestr**
